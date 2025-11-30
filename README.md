@@ -8,7 +8,7 @@
 
 When a class brings data from another class and uses it inside the new class, this is called type inheritance.
 
-### Why Important
+## Why Important
 
 1. Without writing the  same types again and again, we can create a class and use it can create a child class.
 2. In a larger project, using a class is important. If we need to change any data types, we will just change the parent class.
